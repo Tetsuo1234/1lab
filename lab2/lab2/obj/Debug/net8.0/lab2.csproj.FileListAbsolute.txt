@@ -1,0 +1,4 @@
+C:\Users\Mukoky\source\repos\lab2\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mukoky\source\repos\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+C:\Users\Mukoky\source\repos\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+C:\Users\Mukoky\source\repos\lab2\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
